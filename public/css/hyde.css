@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Abril Fatface, serif;
 }
 @media (min-width: 48em) {
   html {
@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #f06091;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #f06091;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
@@ -93,7 +93,6 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
