@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Carson Pence
 tagline:          ''
 description:      ''
-url:              http://cnpence.github.io
-baseurl:          /
+#url:              http://cnpence.github.io
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
